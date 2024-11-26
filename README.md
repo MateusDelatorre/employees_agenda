@@ -20,7 +20,7 @@ Para rodar o APP é necessário ter o serviço de back rodando e talvez realizar
 ## Back end
 Para ter acesso aos dados que alimentarão o projeto, faça o seguinte:
 caso você não tenha: para Node.js, instale o pacote json-server; para Dart, instale o pacote json_rest_server;
-clone este repositório do GitHub: https://github.com/BeMobile/desafio-mobile;
+clone este repositório do [GitHub](https://github.com/BeMobile/desafio-mobile);
 execute o comando para iniciar a API simulada.
 Inicie a estrutura e o desenvolvimento do projeto.
 É necessário deixar a API simulada rodando no terminal para que os dados sejam visualizados no projeto.
